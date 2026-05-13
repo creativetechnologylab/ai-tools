@@ -20,7 +20,7 @@ jobs:
         with:
           fail: false
           failIfEmpty: true
-          args: --accept '200, 403'
+          args: --accept '200, 403' --
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
