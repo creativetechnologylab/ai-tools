@@ -10,7 +10,7 @@ Link: https://scribblediffusion.com/scribbles/jgfvg3lbz3hprb2h44syuz4qxy
 
 ### Dall-E
 
-OpenAI: https://openai.com/dall-e-2/
+OpenAI: https://openai.com/index/dall-e-2/
 
 Craiyon: https://www.craiyon.com/
 
