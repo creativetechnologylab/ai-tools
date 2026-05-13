@@ -10,11 +10,11 @@ Link: https://scribblediffusion.com/scribbles/jgfvg3lbz3hprb2h44syuz4qxy
 
 ### Dall-E
 
-OpenAI: https://openai.com/dall-e-2/  
+OpenAI: https://openai.com/dall-e-2/
 
 Craiyon: https://www.craiyon.com/
 
-Bing Image Creator: https://www.bing.com/create
+Bing Image Creator: https://www.bing.com/images/create/ai-image-generator
 
 ### Midjourney
 
@@ -24,19 +24,19 @@ https://www.midjourney.com
 
 Mainly Stable Diffusion.
 
-DreamStudio: https://beta.dreamstudio.ai/dream
+Brand Studio: https://brandstudio.com/dream
 
-Stable Diffusion: https://stablediffusionweb.com/   
+Stable Diffusion: https://stablediffusionweb.com/
 
-Lexica: https://lexica.art/aperture 
+Lexica: https://lexica.art/aperture
 
-Hugging Face: https://huggingface.co/spaces/stabilityai/stable-diffusion 
+Hugging Face: https://huggingface.co/spaces/stabilityai/stable-diffusion
 
-Phraser: https://phraser.tech/ 
+Phraser: https://phraser.tech/project/new
 
-WOMBO Dream: https://app.wombo.art/  
+Dream: https://dream.ai/create
 
-BlueWillow: https://www.bluewillow.ai/  
+BlueWillow: https://www.bluewillow.ai/
 
 <!-- Callin Matt? -->
 
@@ -48,7 +48,7 @@ ArtBot: https://tinybots.net/artbot
 
 DiffusionBee: https://diffusionbee.com/
 
-Artflow AI: https://app.artflow.ai  
+Artflow AI: https://app.artflow.ai
 
 ArtBot.ai https://artbot.ai/deep
 
@@ -62,13 +62,11 @@ fotor: https://www.fotor.com/
 
 ## Drawing
 
-NVIDIA Canvas: https://www.nvidia.com/en-gb/studio/canvas/
-
-Scible Diffusion: https://scribblediffusion.com/
+NVIDIA Canvas: https://www.nvidia.com/en-gb/studio/
 
 ## Video
 
-VideoCrafter: https://github.com/VideoCrafter/VideoCrafter
+VideoCrafter: https://github.com/AILab-CVC/VideoCrafter
 
 Ebsynth: https://ebsynth.com/
 
@@ -82,27 +80,27 @@ Movavi Video Editor: https://www.movavi.com/video-editor-plus/
 
 Colourlab AI: https://colourlab.ai/
 
-Descript: https://descript.com
+Descript: https://www.descript.com/
 
 Adobe Premiere Pro: http://www.adobe.com/products/premiere.html
 
 ## Design
 
-Microsoft Designer: https://designer.microsoft.com/  
+Microsoft Designer: https://designer.microsoft.com/
 
-Canva: https://www.canva.com/  
+Canva: https://www.canva.com/
 
-Adobe Firefly: https://www.adobe.com/sensei/generative-ai/firefly.html  
+Adobe Firefly: https://www.adobe.com/sensei/generative-ai/firefly.html
 
 Looka: https://looka.com
 
-Deep Art Effekte: https://www.deeparteffects.com/  
+Deep Art Effekte: https://www.deeparteffects.com/
 
-Designs.ai: https://designs.ai/  
+Designs.ai: https://designs.ai/en
 
-Uizard: https://uizard.io/ga  
+Uizard: https://uizard.io/ga
 
-Galileo AI: https://www.usegalileo.ai/explore  
+Galileo AI: https://stitch.withgoogle.com/
 
 beautiful.ai: https://www.beautiful.ai/
 
@@ -110,15 +108,15 @@ beautiful.ai: https://www.beautiful.ai/
 
 ## Audio & Music
 
-Aiva.io 
+Aiva.io
 
-SoundDraw 
+SoundDraw
 
-Soundful 
+Soundful
 
-MuseNet 
+MuseNet
 
-Ecrett Music 
+Ecrett Music
 
 ## Text
 
@@ -150,4 +148,4 @@ https://deepai.org/chat
 
 Runaway: https://runwayml.com/
 
-Songtell: https://www.songtell.com/
+Songtell: https://songtell.com/
