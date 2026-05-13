@@ -19,7 +19,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          failEmpty: true
+          failIfEmpty: true
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
