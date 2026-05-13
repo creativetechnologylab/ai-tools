@@ -4,8 +4,6 @@
 
 "einstein practicing kung fu"
 
-Link: https://scribblediffusion.com/scribbles/jgfvg3lbz3hprb2h44syuz4qxy
-
 ## Images
 
 ### Dall-E
@@ -98,7 +96,7 @@ Deep Art Effekte: https://www.deeparteffects.com/
 
 Designs.ai: https://designs.ai/en
 
-Uizard: https://uizard.io/ga
+Uizard: https://uizard.io/
 
 Galileo AI: https://stitch.withgoogle.com/
 
