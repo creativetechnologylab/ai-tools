@@ -82,7 +82,7 @@ Colourlab AI: https://colourlab.ai/
 
 Descript: https://www.descript.com/
 
-Adobe Premiere Pro: http://www.adobe.com/products/premiere.html
+Adobe Premiere Pro: https://www.adobe.com/uk/products/premiere.html
 
 ## Design
 
@@ -90,7 +90,7 @@ Microsoft Designer: https://designer.microsoft.com/
 
 Canva: https://www.canva.com/
 
-Adobe Firefly: https://www.adobe.com/sensei/generative-ai/firefly.html
+Adobe Firefly: https://www.adobe.com/uk/products/firefly.html
 
 Looka: https://looka.com
 
